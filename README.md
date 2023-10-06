@@ -73,6 +73,6 @@
 <div align="center">
 
 <div>
-<img src="https://media.tenor.com/Vlr5ep-dRXMAAAAd/ryan-gosling-blade-runner2049.gif" alt="Me" align="center">
+<img src="https://media.tenor.com/Vlr5ep-dRXMAAAAd/ryan-gosling-blade-runner2049.gif" alt="Me" align="center" height="500" width="500">
 </div>
 </div>
