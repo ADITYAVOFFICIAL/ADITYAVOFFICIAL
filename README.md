@@ -13,7 +13,7 @@
      
 
   <a href="https://www.linkedin.com/in/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+   <img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="3.5%"/>
     </a><span>&nbsp;</span>
   <a href="https://twitter.com/">
     <img src="https://img.icons8.com/?size=512&id=68193&format=png" width="3.5%"/>
