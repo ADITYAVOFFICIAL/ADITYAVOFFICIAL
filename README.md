@@ -27,6 +27,12 @@
   <a href="https://medium.com/@adityav1304">
    <img src="https://img.icons8.com/?size=512&id=VlAoafiMkWGe&format=png" width="3.5%"/>
     </a><span>&nbsp;</span>
+    <a href="https://">
+   <img src="https://img.icons8.com/?size=512&id=111139&format=png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+    <a href="https://">
+   <img src="" width="3.5%"/>
+    </a><span>&nbsp;</span>
   
   
 
