@@ -10,7 +10,8 @@
 
 
 <p align="center">
-     <hr><iframe width="560" height="315" src="https://www.youtube.com/embed/s5bI_732Cqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <hr>
+[![YouTube Video](https://img.youtube.com/vi/s5bI_732Cqs/0.jpg)](https://www.youtube.com/watch?v=s5bI_732Cqs)
 <hr>
   <a href="https://www.linkedin.com/in/">
    <img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="3.5%"/>
