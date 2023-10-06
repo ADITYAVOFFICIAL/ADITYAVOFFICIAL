@@ -24,6 +24,9 @@
   <a href="mailto:av4923@srmist.edu.in">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+  <a href="https://medium.com/@adityav1304">
+   <img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
   
   
 
