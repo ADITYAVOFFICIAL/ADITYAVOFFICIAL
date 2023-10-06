@@ -56,10 +56,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br><br><img src="https://media.tenor.com/BIIGxr4ujkIAAAAd/ryan-gosling-thumbs-up.gif" alt="Me" align="center">
 </h1>
-	
-	
+<br><br><img src="https://media.tenor.com/BIIGxr4ujkIAAAAd/ryan-gosling-thumbs-up.gif" alt="Me" align="center">
+
 	
 
 
