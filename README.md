@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/?size=512&id=68193&format=png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://www.instagram.com/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+    <img src="https://img.icons8.com/?size=512&id=hFoVFpm6gl9A&format=png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="mailto:av4923@srmist.edu.in">
     <img src="https://img.icons8.com/?size=512&id=nQ4dZIRCI0nW&format=png" width="3.5%"/>
