@@ -10,9 +10,6 @@
 
 
 <p align="center">
-     <hr>
-![Video thumbnail](https://img.youtube.com/vi/s5bI_732Cqs/hqdefault.jpg)
-<hr>
   <a href="https://www.linkedin.com/in/">
    <img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="3.5%"/>
     </a><span>&nbsp;</span>
