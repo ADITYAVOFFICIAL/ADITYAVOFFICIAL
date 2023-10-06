@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aryan Raj</h1>
+<h1 align="center">Hi 👋, I'm ADITYA VERMA</h1>
 
 
 
@@ -12,16 +12,16 @@
 <p align="center">
      
 
-  <a href="https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+  <a href="https://www.linkedin.com/in/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/aryanraj2713">
+  <a href="https://twitter.com/">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/aryanraj_2713/">
+  <a href="https://www.instagram.com/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:aryanraj2713@gmail.com">
+  <a href="mailto:av4923@srmist.edu.in">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   
@@ -44,9 +44,9 @@
 # 📊 GitHub Stats:
 <h1 align=center>
   
-![](https://github-readme-stats.vercel.app/api?username=aryanraj2713&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryanraj2713&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=aryanraj2713&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </h1>
 	
