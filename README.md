@@ -31,7 +31,11 @@
     <a href="https://">
    <img src="" width="3.5%"/>
     </a><span>&nbsp;</span>
-    <hr><img src="https://media.tenor.com/XUaNEJcjmdEAAAAd/batman-the-dark-knight.gif"><hr>
+<div style="text-align: center;">
+    <hr>
+    <img src="https://media.tenor.com/XUaNEJcjmdEAAAAd/batman-the-dark-knight.gif" alt="Batman">
+    <hr>
+</div>
   
   
 
