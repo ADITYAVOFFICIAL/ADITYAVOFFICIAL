@@ -11,7 +11,7 @@
 
 <p align="center">
      <hr>
-[![YouTube Video](https://img.youtube.com/vi/s5bI_732Cqs/0.jpg)](https://www.youtube.com/watch?v=s5bI_732Cqs)
+[![Watch the video](https://img.youtube.com/vi/s5bI_732Cqs/0.jpg)](https://www.youtube.com/watch?v=s5bI_732Cqs)
 <hr>
   <a href="https://www.linkedin.com/in/">
    <img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="3.5%"/>
