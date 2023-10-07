@@ -5,13 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm ADITYA VERMA</h1>
 
-<style>
-        @media (max-width: 768px) {
-            img {
-                width: 8%;
-            }
-        }
-    </style>
 
 
 
