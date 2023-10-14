@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-verma-real/">
-   <img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="4%"/>
+   <img src="https://img.icons8.com/?size=138&id=CWnQDCef7qg0&format=png" width="4%"/>
     </a><span>&nbsp;</span>
   <a href="https://twitter.com/ADITYAVOFFICIAL">
-    <img src="https://img.icons8.com/?size=512&id=68193&format=png" width="4%"/>
+    <img src="https://img.icons8.com/?size=138&id=Qgk24BQnfPDD&format=png" width="4%"/>
   </a><span>&nbsp;</span>
   <a href="mailto:av4923@srmist.edu.in">
     <img src="https://img.icons8.com/?size=512&id=nQ4dZIRCI0nW&format=png" width="4%"/>
@@ -22,7 +22,7 @@
    <img src="https://img.icons8.com/?size=512&id=VlAoafiMkWGe&format=png" width="4%"/>
     </a><span>&nbsp;</span>
     <a href="https://">
-   <img src="https://img.icons8.com/?size=512&id=111139&format=png" width="4%"/>
+   <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
     </a><span>&nbsp;</span>
 <div align=center>
     <hr>
