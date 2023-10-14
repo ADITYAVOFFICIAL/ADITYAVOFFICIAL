@@ -34,7 +34,7 @@
     <hr>
     <img src="https://media.tenor.com/XUaNEJcjmdEAAAAd/batman-the-dark-knight.gif" alt="Batman">
     <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat" alt="view counter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat" style="border-radius: 20px;" alt="view counter" /> </p>
 </div>
   
   
