@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/?size=138&id=Qgk24BQnfPDD&format=png" width="4%"/>
   </a><span>&nbsp;</span>
   <a href="mailto:av4923@srmist.edu.in">
-    <img src="https://img.icons8.com/?size=512&id=nQ4dZIRCI0nW&format=png" width="4%"/>
+    <img src="https://img.icons8.com/?size=138&id=ImCrEX6dngpa&format=png" width="4%"/>
   </a><span>&nbsp;</span>
   <a href="https://medium.com/@adityav1304">
    <img src="https://img.icons8.com/?size=512&id=VlAoafiMkWGe&format=png" width="4%"/>
