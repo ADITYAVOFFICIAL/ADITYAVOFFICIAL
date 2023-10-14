@@ -62,8 +62,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADITYAVOFFICIAL&show_icons=true&locale=en&layout=compact&theme=dark" alt="LANG USED" />
+![](https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ADITYAVOFFICIAL&show_icons=true&locale=en&layout=compact&theme=transparent" alt="LANG USED" />
 </h1>
 
 	
