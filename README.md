@@ -26,7 +26,7 @@
     </a><span>&nbsp;</span>
 <div align=center>
     <hr>
-    <img src="https://media.tenor.com/XUaNEJcjmdEAAAAd/batman-the-dark-knight.gif" alt="Batman">
+    <img src="https://64.media.tumblr.com/85b4d7639d5060fcd1c2d61682a7fc34/32988128020aedd9-f1/s540x810/7edadafde983e46aa78c1f3d8a111006f454c3fa.gif" alt="Batman">
     <hr>
 <p align="left" style="display: inline-block;"> <img src="https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat" style="border-radius: 20px;" alt="view counter" /> 
 	<p align="left"> <img src="https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000" style="border-radius: 20px;" alt="follow" /> 
