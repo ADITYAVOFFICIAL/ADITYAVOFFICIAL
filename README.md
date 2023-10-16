@@ -25,9 +25,8 @@
    <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
     </a><span>&nbsp;</span>
 <div align=center>
-    <hr>
+    ##
     <img src="https://media.tenor.com/HFD5Di-0v-8AAAAd/the-batman-stare.gif" alt="Batman">
-    <hr>
 <p align="left" style="display: inline-block;"> <img src="https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat" style="border-radius: 20px;" alt="view counter" /> 
 	<p align="left" style="display: inline-block;"> <img src="https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000" style="border-radius: 20px;" alt="follow" /> 
 </p>
