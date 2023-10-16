@@ -66,7 +66,7 @@
 </h1>
 
 # Holopin Badges
-[![@aditya's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@adityavofficial)
+[![@aditya's Holopin board](https://holopin.io/api/user/board?user=adityavofficial)](https://holopin.io/@adityavofficial)
 #
 
 <p align="center">
