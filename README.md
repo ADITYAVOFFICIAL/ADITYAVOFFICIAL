@@ -65,8 +65,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" alt="LANG USED" />
 </h1>
 
-	
-
+#	
+[![@aditya's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@adityavofficial)
+#
 
 <p align="center">
   <b>Not open for collaborations for now.</b>
