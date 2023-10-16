@@ -28,10 +28,12 @@
 <div align=center>
     <img src="https://media.tenor.com/HFD5Di-0v-8AAAAd/the-batman-stare.gif" alt="Batman">
 		<hr>
-</div>
 
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
 ![Follow](https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000)
+</div>
+
+
 
 
    
