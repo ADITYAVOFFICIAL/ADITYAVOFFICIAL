@@ -26,7 +26,7 @@
     </a><span>&nbsp;</span>
 	<hr>
 <div align=center>
-    <img src="https://media.tenor.com/HFD5Di-0v-8AAAAd/the-batman-stare.gif" alt="Batman">
+    <img src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/also_me2.gif" alt="Batman">
 		<hr>
 
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
