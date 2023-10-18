@@ -26,7 +26,7 @@
     </a><span>&nbsp;</span>
 	<hr>
 <div align=center>
-    <img src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/also_me2.gif" alt="Batman">
+    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman">
 		<hr>
 
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
@@ -60,7 +60,7 @@
      
 # 📊 GitHub Stats:
 <h1 align=center>
-  <br><img src="https://media.tenor.com/BIIGxr4ujkIAAAAd/ryan-gosling-thumbs-up.gif" alt="Me" style="display: inline-block;"><br>
+  <br><img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" style="display: inline-block;"><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false)<br/><br/>
