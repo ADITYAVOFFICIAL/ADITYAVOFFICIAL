@@ -82,6 +82,6 @@
 <div align="center">
 
 <div style="text-align:center;">
-  <img src="https://media.tenor.com/Vlr5ep-dRXMAAAAd/ryan-gosling-blade-runner2049.gif" alt="Me" style="max-width:100%; height:auto;">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" style="max-width:100%; height:auto;">
 </div>
 </div>
