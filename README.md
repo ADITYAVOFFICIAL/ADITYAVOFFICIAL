@@ -60,7 +60,7 @@
      
 # 📊 GitHub Stats:
 <h1 align=center>
-  <br><img src="https://media.tenor.com/BIIGxr4ujkIAAAAC/ryan-gosling-thumbs-up.gif" alt="Me" style="display: inline-block;"><br>
+  <br><img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" style="display: inline-block;"><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false)<br/><br/>
