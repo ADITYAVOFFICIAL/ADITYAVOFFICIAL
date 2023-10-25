@@ -25,7 +25,10 @@
    <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
     </a><span>&nbsp;</span><br><br>
 <div align=center>
-    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman"><br><br>
+    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman">
+  <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=23&duration=4500&pause=1200&color=15E254F1&center=true&vCenter=true&random=false&width=435&lines=I'm+Vengeance" alt="Typing SVG" /></a>
+    <br><br>
 
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
 ![Follow](https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000)
