@@ -33,19 +33,23 @@
 
 
  # 🤷🏼‍♂️ About Me-
+ <div>
+<ul>
+<li>👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀</li>
 
--👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀
+<li>📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with a focus on Big Data Analytics.</li>
 
--📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with a focus on Big Data Analytics.
+<li>✍️ Alongside my studies, I enjoy writing blogs on a variety of topics, exploring the intersection of technology and the world.</li>
 
--✍️ Alongside my studies, I enjoy writing blogs on a variety of topics, exploring the intersection of technology and the world.
+<li>🔬 My tech journey is a dynamic one; I'm in the process of mastering MERN full-stack development, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.</li>
 
--🔬 My tech journey is a dynamic one; I'm in the process of mastering MERN full-stack development, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
+<li>🌍 Beyond code, I have an insatiable curiosity about geopolitics and history. Let's chat about the world's past, present, and future!</li>
 
--🌍 Beyond code, I have an insatiable curiosity about geopolitics and history. Let's chat about the world's past, present, and future!
+<li>🌱 I'm always on the lookout for new learning opportunities and excited to connect with like-minded tech enthusiasts. Let's collaborate, innovate, and grow together in this ever-evolving tech landscape.</li>
 
--🌱 I'm always on the lookout for new learning opportunities and excited to connect with like-minded tech enthusiasts. Let's collaborate, innovate, and grow together in this ever-evolving tech landscape. Feel free to reach out
-   
+Feel free to reach out at my social links above</li>
+</ul>
+   </div>
       
  # ⚙️ My Tech Stack-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
