@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm ADITYA VERMA</h1>
 
 
-
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-verma-real/">
@@ -23,7 +23,7 @@
     </a><span>&nbsp;</span>
     <a href="https://">
    <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
-    </a><span>&nbsp;</span>
+    </a><span>&nbsp;</span><br><br>
 <div align=center>
     <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman"><br><br>
 
