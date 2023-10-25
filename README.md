@@ -24,9 +24,8 @@
     <a href="https://">
    <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
     </a><span>&nbsp;</span>
-	<hr>
 <div align=center>
-    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman">
+    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman"><br>
 
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
 ![Follow](https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000)
