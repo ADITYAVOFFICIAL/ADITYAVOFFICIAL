@@ -33,12 +33,12 @@
 ![Follow](https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000)
 </div>
 
-
+# About me
 
 
    
       
- # My Tech Stack-
+ # ⚙️ My Tech Stack-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +69,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" alt="LANG USED" />
 </h1>
 
-# Holopin Badges
+# 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
 #
 
