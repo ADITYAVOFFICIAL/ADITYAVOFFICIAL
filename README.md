@@ -35,7 +35,7 @@
  # 🤷🏼‍♂️ About Me-
  <div>
 <ul>
-<li style="margin-bottom: 2px;">👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀</li>
+<li style="margin-bottom: 4px;">👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀</li>
 
 <li>📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with a focus on Big Data Analytics.</li>
 
