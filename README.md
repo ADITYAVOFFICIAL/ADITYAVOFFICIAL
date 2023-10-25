@@ -33,23 +33,21 @@
 
 
  # 🤷🏼‍♂️ About Me-
-<div>
-<ul style="margin-bottom: 20px;">
-<li>👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀</li>
 
-<li>📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with a focus on Big Data Analytics.</li>
+- 👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀
 
-<li>✍️ Alongside my studies, I enjoy writing blogs on a variety of topics, exploring the intersection of technology and the world.</li>
+- 📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with a focus on Big Data Analytics.
 
-<li>🔬 My tech journey is a dynamic one; I'm in the process of mastering MERN full-stack development, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.</li>
+- ✍️ Alongside my studies, I enjoy writing blogs on a variety of topics, exploring the intersection of technology and the world.
 
-<li>🌍 Beyond code, I have an insatiable curiosity about geopolitics and history. Let's chat about the world's past, present, and future!</li>
+- 🔬 My tech journey is a dynamic one; I'm in the process of mastering MERN full-stack development, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
 
-<li>🌱 I'm always on the lookout for new learning opportunities and excited to connect with like-minded tech enthusiasts. Let's collaborate, innovate, and grow together in this ever-evolving tech landscape.</li>
+- 🌍 Beyond code, I have an insatiable curiosity about geopolitics and history. Let's chat about the world's past, present, and future!
 
-<li>Feel free to reach out at my social links above</li>
-</ul>
-</div>
+- 🌱 I'm always on the lookout for new learning opportunities and excited to connect with like-minded tech enthusiasts. Let's collaborate, innovate, and grow together in this ever-evolving tech landscape.
+
+Feel free to reach out at my social links above
+
 
       
  # ⚙️ My Tech Stack-
