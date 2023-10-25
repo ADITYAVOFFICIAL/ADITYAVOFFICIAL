@@ -36,13 +36,13 @@
 
 - 👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀
 
-- 📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with a focus on Big Data Analytics.
+- 📚 I'm currently a **2nd-year student** at **SRM Institute of Science and Technology, Kattankulathur**, pursuing Computer Science Engineering with a focus on Big Data Analytics.
 
-- ✍️ Alongside my studies, I enjoy writing blogs on a variety of topics, exploring the intersection of technology and the world.
+- ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.
 
-- 🔬 My tech journey is a dynamic one; I'm in the process of mastering MERN full-stack development, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
+- 🔬 My tech journey is a dynamic one; I'm in the process of mastering **MERN full-stack development**, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
 
-- 🌍 Beyond code, I have an insatiable curiosity about geopolitics and history. Let's chat about the world's past, present, and future!
+- 🌍 Beyond code, I have an insatiable **curiosity about geopolitics** and history. Let's chat about the world's past, present, and future!
 
 - 🌱 I'm always on the lookout for new learning opportunities and excited to connect with like-minded tech enthusiasts. Let's collaborate, innovate, and grow together in this ever-evolving tech landscape.
 
