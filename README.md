@@ -26,8 +26,9 @@
     </a><span>&nbsp;</span><br><br>
 <div align=center>
     <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/also_me.gif?raw=true" alt="Batman">
-  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=23&duration=4500&pause=1200&color=15E254F1&center=true&vCenter=true&random=false&width=435&lines=I'm+Vengeance" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;And+I+want+you+to+remeber+two+words;I'm+Batman&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
 ![Follow](https://img.shields.io/github/followers/ADITYAVOFFICIAL.svg?style=social&label=Follow&maxAge=2592000)
