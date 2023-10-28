@@ -80,10 +80,9 @@ Feel free to reach out at my social links above
 
 <img src="https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" width="32.5%">
 
 </a>
-
 
 # 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
