@@ -66,7 +66,6 @@ Feel free to reach out at my social links above
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -86,15 +85,15 @@ Feel free to reach out at my social links above
 
 # 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
-#
 
-<p align="center">
-  <b>Not open for collaborations for now.</b>
      
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ADITYAVOFFICIAL&margin-w=8&margin-h=4&theme=onedark)
 
+#
 
+<p align="center">
+  <b>Not open for collaborations for now.</b>
    
 <div align="center">
 
