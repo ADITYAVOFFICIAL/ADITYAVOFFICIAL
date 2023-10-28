@@ -83,8 +83,12 @@ Feel free to reach out at my social links above
 
 </a>
 
+#
+
 # 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
+
+#
 
      
 # 🏆 GitHub Trophies
