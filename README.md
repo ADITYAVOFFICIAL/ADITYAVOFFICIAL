@@ -74,14 +74,16 @@ Feel free to reach out at my social links above
 
      
 # 📊 GitHub Stats:
-<h1 align=center>
-  <br><img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" style="display: inline-block;"><br>
 
-![](https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" alt="LANG USED" />
-</h1>
+<div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32.5%">
+
+</a>
+
 
 # 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
