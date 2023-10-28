@@ -90,7 +90,8 @@ Feel free to reach out at my social links above
 <p align="center">
   <b>Not open for collaborations for now.</b>
      
-
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ADITYAVOFFICIAL&margin-w=8&margin-h=4&theme=onedark)
 
 
    
@@ -100,3 +101,5 @@ Feel free to reach out at my social links above
   <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" style="max-width:100%; height:auto;">
 </div>
 </div>
+
+![](https://visitcount.itsvg.in/api?id=mkswagger&icon=0&color=3)
