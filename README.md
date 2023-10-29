@@ -34,12 +34,6 @@
 ![View](https://komarev.com/ghpvc/?username=ADITYAVOFFICIAL&label=Profile%20views&color=0e75b6&style=flat)
 </div>
 
-# 🎧 Recently played Apple Music 
-
-<div align=center>
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001253.8d92064889fb4657a55a6c95844c09c3.1652)](https://github.com/rayriffy/apple-music-github-profile)
-</div>
 
 
  # 🤷🏼‍♂️ About Me-
@@ -91,7 +85,13 @@ Feel free to reach out at my social links above
 
 </a>
 
-#
+# 🎧 Recently played Apple Music 
+
+<div align=center>
+
+![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001253.8d92064889fb4657a55a6c95844c09c3.1652)
+
+</div>
 
 # 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
