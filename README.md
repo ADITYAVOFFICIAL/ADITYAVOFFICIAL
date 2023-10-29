@@ -84,15 +84,11 @@ Feel free to reach out at my social links above
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAVOFFICIAL&theme=transparent&hide_border=false" width="32.5%">
 
 </a>
-
+</div>
 
 # 🎧 Recently played Apple Music 
-
-
 <div align=center>
-
 ![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001253.8d92064889fb4657a55a6c95844c09c3.1652)
-
 </div>
 
 # 🏆 Holopin Badges
