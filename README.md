@@ -42,7 +42,7 @@
 
 - 📚 I'm currently a **2nd-year student** at **SRM Institute of Science and Technology, Kattankulathur**, pursuing Computer Science Engineering w/s Big Data Analytics.
 
-- ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.
+- ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My tech journey is a dynamic one; I'm in the process of mastering **MERN full-stack development**, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
 
