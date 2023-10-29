@@ -75,9 +75,9 @@
 
      
 # 📊 GitHub Stats:
-
+<img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" width="30%">
 <div align="center" >
-<img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" width="20%">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" width="32.5%">
