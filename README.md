@@ -76,7 +76,7 @@
      
 # 📊 GitHub Stats:
 <div align="center" >
-<img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" width="30%"></div>
+<img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" width="30%"><br><br></div>
 <div align="center" >
 
 
