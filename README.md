@@ -24,7 +24,7 @@
     <a href="https://">
    <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
     </a><span>&nbsp;</span><br><br>
-<div align=center>
+<div align="center">
     <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/batman.gif?raw=true" alt="Batman">
 
 <p align="center">
@@ -86,7 +86,11 @@ Feel free to reach out at my social links above
 </a>
 </div>
 
-
+# 🎧 Apple Music 
+<div align="center">
+  
+![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001253.8d92064889fb4657a55a6c95844c09c3.1652)
+</div>
 
 # 🏆 Holopin Badges
 [![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
