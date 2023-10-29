@@ -88,6 +88,7 @@ Feel free to reach out at my social links above
 
 # 🎧 Recently played Apple Music 
 <div align=center>
+  
 ![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001253.8d92064889fb4657a55a6c95844c09c3.1652)
 </div>
 
