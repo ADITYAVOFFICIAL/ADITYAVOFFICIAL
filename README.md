@@ -77,7 +77,7 @@
 # 📊 GitHub Stats:
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me2.gif?raw=true" alt="Me" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="32.5%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAVOFFICIAL&langs_count=8&theme=transparent" width="32.5%">
@@ -112,7 +112,7 @@
 <div align="center">
 
 <div style="text-align:center;">
-  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" width="35%">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" width="40%">
 </div>
 </div>
 
