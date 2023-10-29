@@ -112,7 +112,7 @@
 <div align="center">
 
 <div style="text-align:center;">
-  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" width="25%">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" width="35%">
 </div>
 </div>
 
