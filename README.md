@@ -25,7 +25,7 @@
    <img src="https://img.icons8.com/?size=138&id=eIM3rBvyFbHA&format=png" width="4%"/>
     </a><span>&nbsp;</span><br><br>
 <div align="center">
-    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/batman.gif?raw=true" alt="Batman">
+    <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/bat.gif?raw=true" alt="Batman">
 
 <p align="center">
   
