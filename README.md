@@ -110,13 +110,13 @@
 
 #
 
-<p align="center">
-  <b>Not open for collaborations for now.</b>
+<h2 align="center">
+  <b>Open for collaborations for now.</b>
    
 <div align="center">
 
 <div style="text-align:center;">
-  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/me.gif?raw=true" alt="Me" width="40%">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/meok.gif?raw=true" alt="Me" width="40%">
 </div>
 </div>
 
