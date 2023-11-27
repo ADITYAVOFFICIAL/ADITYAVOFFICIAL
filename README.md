@@ -114,9 +114,9 @@
   <b>Open for collaborations now.</b><br>
    
 <div align="center">
-
+<br>
 <div style="text-align:center;">
-  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/menow.gif?raw=true" alt="Me" width="60%">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/menow.gif?raw=true" alt="Me" width="50%">
 </div>
 </div>
 
