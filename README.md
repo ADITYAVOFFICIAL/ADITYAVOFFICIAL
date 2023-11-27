@@ -111,12 +111,12 @@
 #
 
 <h2 align="center">
-  <b>Open for collaborations now.</b>
+  <b>Open for collaborations now.</b><br>
    
 <div align="center">
 
 <div style="text-align:center;">
-  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/meok.gif?raw=true" alt="Me" width="40%">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/meok.gif?raw=true" alt="Me" width="100%">
 </div>
 </div>
 
