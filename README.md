@@ -116,7 +116,7 @@
 <div align="center">
 
 <div style="text-align:center;">
-  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/meok.gif?raw=true" alt="Me" width="100%">
+  <img src="https://github.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/blob/main/pics/menow.gif?raw=true" alt="Me" width="80%">
 </div>
 </div>
 
