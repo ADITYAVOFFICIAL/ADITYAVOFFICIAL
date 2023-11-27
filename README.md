@@ -111,7 +111,7 @@
 #
 
 <h2 align="center">
-  <b>Open for collaborations now.</b>
+  <b>OPEN FOR COLLABORATIONS</b>
    
 <div align="center">
 <br>
