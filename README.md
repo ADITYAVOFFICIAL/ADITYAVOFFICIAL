@@ -40,7 +40,7 @@
 
 - 👨‍💻 Aspiring Tech Enthusiast with a Passion for Learning and Sharing 🚀
 
-- 📚 I'm currently a **2nd-year student** at **SRM Institute of Science and Technology, Kattankulathur**, pursuing Computer Science Engineering w/s Big Data Analytics.
+- 📚 I'm currently a **3rd-year student** at **SRM Institute of Science and Technology, Kattankulathur**, pursuing Computer Science Engineering w/s Big Data Analytics.
 
 - ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
