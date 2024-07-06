@@ -45,7 +45,7 @@
 
 - ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My tech journey is a dynamic one; I'm in the process of mastering **MERN full-stack development**, diving deep into Protege SQL, and exploring the fascinating realms of AI/ML.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; My tech journey is a dynamic one; I'm in the process of mastering **MERN full-stack development** while delving into the fascinating realms of Computer Vision, LLMs, and Deep Learning. I focus on building models and deploying them on the web, along with exploring other interesting technologies.
 
 - 🌍 Beyond code, I have an insatiable **curiosity about geopolitics** and history. Let's chat about the world's past, present, and future!
 
