@@ -85,7 +85,10 @@
  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
  ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
+# 👨🏻‍💻 LeetCode Stats:
+<div align="center" >
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+</div>
      
 # 📊 GitHub Stats:
 <div align="center" >
